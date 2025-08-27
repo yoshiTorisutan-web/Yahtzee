@@ -1,7 +1,5 @@
 <h1 align="center">🎲 Yahtzee 🎲</h1>  
 
-<p align="center">🟣🟠</p>  
-
 ## Présentation du projet
 
 **Yahtzee** est une adaptation numérique et interactive du célèbre jeu de dés (aussi appelé *Yams*), développée en **HTML**, **TailwindCSS** et **JavaScript**.  
