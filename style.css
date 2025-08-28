@@ -1,0 +1,25 @@
+.de {
+  transition: transform 0.2s;
+}
+.de:hover {
+  transform: translateY(-5px) scale(1.1);
+  cursor: pointer;
+}
+.de-garde {
+  color: white;
+  font-weight: bold;
+}
+.jouable {
+  background-color: #d1fae5 !important;
+  font-weight: bold;
+}
+.max-score {
+  background-color: #34d399 !important; /* vert lumineux */
+  font-weight: bold;
+  color: white;
+}
+.zero-score {
+  background-color: #fca5a5 !important; /* rouge clair */
+  font-weight: bold;
+  color: white;
+}
